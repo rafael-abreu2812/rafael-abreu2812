@@ -31,6 +31,21 @@ I enjoy working with Infrastructure as Code, CI/CD pipelines, cloud platforms, a
 
 ---
 
+---
+
+## 🏆 Achievements
+
+<p align="left">
+  <a href="https://sadservers.com" target="_blank">
+    <img src="https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto" />
+  </a>
+</p>
+
+- Hands-on troubleshooting and real-world Linux/DevOps scenarios
+- Practical experience debugging production-like environments
+- Continuous learning through challenge-based labs
+
+
 ## 📫 Get in Touch
 
 <p align="left">
